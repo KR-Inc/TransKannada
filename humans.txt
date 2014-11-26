@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Charan Raj T C  -- Lead Programmer  -- charanraj.tc@gmail.com
+	Karthik Srinivas  -- UI/UX Developer & Designer   -- aathis18@gmail.com
+	Ravi Tej G A   -- Front END DEVELOPER   -- ravitejammu@gmail.com 
+	Sreedhar G N -- QA and Testing  --    sridharchir@gmail.com
+
+# THANKS
+	
+	Ami Ganguli Consulting Inc 
+	Core  Soft India 
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    PHP , Redis ,Python
