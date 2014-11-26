@@ -1,0 +1,48 @@
+@import (less) "template.css";
+@import "normalize.css";
+@import "../../components/bootstrap/less/bootstrap.less";
+@import "../../components/fontawesome/less/font-awesome.less";
+
+
+//fonts
+
+@font-face {
+	font-family: Mathlete Bulky;
+	src: url(../fonts/Mathlete-Bulky.otf);
+}
+
+@font-face {
+	font-family: A little sunshine;
+	src: url(../fonts/A-little-sunshine.ttf);
+}
+
+@font-face {
+	font-family: Roboto Light;
+	src: url(../fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+	font-family: Roboto Medium;
+	src: url(../fonts/Roboto-Medium.ttf);
+}
+
+
+// custom code
+
+.hero-unit{
+
+	.email-form-container{
+		.make-md-column(6);
+		.make-md-column-offset(3);
+
+		.input-group{
+			input{
+				font-family: "Roboto Light";
+			}
+			span{
+				font-family: "A little sunshine";
+				cursor: pointer;
+			}
+		}
+	}
+}
