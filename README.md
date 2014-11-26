@@ -16,5 +16,5 @@ Compile with $grunt command
 
 If you need any help with installation, shoot a mail to aathis18@gmail.com
 
-##### Made with Love by Karthik Aathis & Raghavendra.
+##### @author -  Karthik Aathis & Raghavendra.
  
