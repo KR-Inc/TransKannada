@@ -1433,7 +1433,7 @@ textarea {
 	}
 	.content-23 {
 	  position: relative;
-	  height: 800px; 
+	  height: 400px; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -1497,11 +1497,11 @@ textarea {
 	  text-align: center;
 	  font-size: 19px;
 	  font-weight: normal; 
-	  background: rgba(255,255,255,0.55);
+	  background: rgba(0,0,0,0.55);
 	  color: #ffffff;
-	  opacity: 30;
+	  opacity: 40;
 	  filter: alpha(opacity=3000);
-	  opacity: 0.3;
+	  opacity: 0.4;
 	  filter: alpha(opacity=30);
 	  position: absolute;
 	  left: 50%;
@@ -1720,7 +1720,7 @@ textarea {
 	}
 	.content-23 {
 	  overflow: hidden;
-	  background-color: #efc94c;
+	  background-color: #1B1F23;
 	}
 	.content-23 #bgVideo {
 	  overflow: hidden;
