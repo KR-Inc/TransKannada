@@ -1488,7 +1488,7 @@ textarea {
 	  }
 	}
 	.content-23 .control-btn {
-	  width: 53px;
+	  /*width: 53px;
 	  height: 53px;
 	  line-height: 53px;
 	  margin: 0;
@@ -1506,7 +1506,7 @@ textarea {
 	  position: absolute;
 	  left: 50%;
 	  bottom: 90px;
-	  margin-left: -26.5px;
+	  margin-left: -26.5px;*/
 	}
 	.content-23 .control-btn:hover,
 	.content-23 .control-btn:focus,
