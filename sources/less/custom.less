@@ -17,6 +17,11 @@
 }
 
 @font-face {
+	font-family: HipsterishFontNormal;
+	src: url(../fonts/HipsterishFontNormal.ttf);
+} 
+
+@font-face {
 	font-family: Roboto Light;
 	src: url(../fonts/Roboto-Light.ttf);
 }
@@ -28,6 +33,22 @@
 
 
 // custom code
+
+.navbar{
+	.navbar-header{
+		.brand{
+			font-family: "HipsterishFontNormal";
+			font-size: 36px;
+			line-height: 36px;
+			letter-spacing: 3px;
+
+			&:hover{
+				text-decoration: none;
+			}
+		}
+	}
+}
+
 
 .hero-unit{
 
@@ -44,5 +65,14 @@
 				cursor: pointer;
 			}
 		}
+	}
+}
+
+.upload-form{
+	.make-md-column(6);
+	.make-md-column-offset(3);
+
+	.form-control{ 
+		font-family: "Roboto Light";
 	}
 }
