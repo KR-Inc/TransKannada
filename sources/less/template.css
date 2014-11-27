@@ -1433,7 +1433,7 @@ textarea {
 	}
 	.content-23 {
 	  position: relative;
-	  height: 800px;
+	  height: 800px; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -1496,9 +1496,8 @@ textarea {
 	  border-radius: 50%;
 	  text-align: center;
 	  font-size: 19px;
-	  font-weight: normal;
-	  color: #7f8c8d;
-	  background: #121518;
+	  font-weight: normal; 
+	  background: rgba(255,255,255,0.55);
 	  color: #ffffff;
 	  opacity: 30;
 	  filter: alpha(opacity=3000);
@@ -1537,6 +1536,7 @@ textarea {
 	.content-23 .hero-unit h1 {
 	  margin: 0 0 30px;
 	  font-size: 48px;
+	  font-family: "A little sunshine";
 	  font-weight: normal;
 	  color: #ffffff;
 	  font-weight: 600;
@@ -1545,6 +1545,7 @@ textarea {
 	@media (max-width: 480px) {
 	  .content-23 .hero-unit h1 {
 		font-size: 36px;
+		font-family: "A little sunshine";
 		font-weight: normal;
 		color: #ffffff;
 		font-weight: 600;
@@ -1553,6 +1554,7 @@ textarea {
 	}
 	.content-23 .hero-unit.hero-unit-bordered h1 {
 	  font-size: 46px;
+	  font-family: "A little sunshine";
 	  font-weight: normal;
 	  color: #ffffff;
 	  font-weight: 500;
@@ -1718,7 +1720,7 @@ textarea {
 	}
 	.content-23 {
 	  overflow: hidden;
-	  background-color: #1B1F23;
+	  background-color: #efc94c;
 	}
 	.content-23 #bgVideo {
 	  overflow: hidden;
